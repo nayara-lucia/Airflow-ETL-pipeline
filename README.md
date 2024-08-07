@@ -1,7 +1,7 @@
 <h1 align='center'> ETL Pipeline with Apache Airflow</h1>
 
 ### About
-In this project, I used the Apache Airflow architecture to build an automated ETL pipeline. The need to integrate data from multiple sources such as APIs and databases became critical for the business, and Airflow was chosen due to its ability to schedule, monitor, and manage complex workflows. I used the Airflow environment with Docker Compose to configure and manage the Airflow components locally, providing an agile development and testing environment prior to deployment.
+In this project, I used the Apache Airflow architecture to build an automated ETL pipeline. The need to integrate data from multiple sources such as APIs and databases became critical for the business, and Airflow was chosen due to its ability to schedule, monitor, and manage complex workflows. I used the Airflow environment with Docker Compose to configure and manage the Airflow components locally, providing an agile development and testing environment prior to deployment. Using "schedule_interval='0 23 * * *'" we can create a pipeline that runs every day at 11:00 PM.
 
 ### Pipeline architecture
 
