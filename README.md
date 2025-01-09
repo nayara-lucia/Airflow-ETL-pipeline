@@ -53,10 +53,6 @@ Our data source will be The Movie Database API, where we will extract data on th
 
 ![image](https://github.com/user-attachments/assets/e3e170d2-4e3b-494c-91c5-a7bf4839d6db)
 
-<b>Dag running:</b>
-
-![VdeosemttuloFeitocomoClipchamp8-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/1f885324-afb2-4cf7-8342-344d93fe0e3e)
-
 
 <b>Dashboard with PowerBI:</b>
 
